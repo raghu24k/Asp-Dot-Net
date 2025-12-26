@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6 SEM\\ASP DOT NET\\ASP TUTORIAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\6 SEM\\ASP DOT NET\\WebSite23\\student registration form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D81FC9-29CA-43F2-A7D3-C2548F306B98}|ASP TUTORIAL.csproj|D:\\6 SEM\\ASP DOT NET\\ASP TUTORIAL\\first tutorial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70D81FC9-29CA-43F2-A7D3-C2548F306B98}|ASP TUTORIAL.csproj|solutionrelative:first tutorial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 519,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student registration form.aspx.cs",
+              "DocumentMoniker": "D:\\6 SEM\\ASP DOT NET\\WebSite23\\student registration form.aspx.cs",
+              "RelativeDocumentMoniker": "..\\WebSite23\\student registration form.aspx.cs",
+              "ToolTip": "D:\\6 SEM\\ASP DOT NET\\WebSite23\\student registration form.aspx.cs",
+              "RelativeToolTip": "..\\WebSite23\\student registration form.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T05:48:19.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FIRST TUTORIAL.aspx",
+              "DocumentMoniker": "D:\\6 SEM\\ASP DOT NET\\ASP TUTORIAL\\FIRST TUTORIAL.aspx",
+              "RelativeDocumentMoniker": "FIRST TUTORIAL.aspx",
+              "ToolTip": "D:\\6 SEM\\ASP DOT NET\\ASP TUTORIAL\\FIRST TUTORIAL.aspx",
+              "RelativeToolTip": "FIRST TUTORIAL.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-19T05:40:24.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
